@@ -1,0 +1,2 @@
+C:\Users\ahmad\source\repos\KeyboardHook\Debug\KeyboardHook.exe
+C:\Users\ahmad\source\repos\KeyboardHook\Debug\KeyboardHook.pdb

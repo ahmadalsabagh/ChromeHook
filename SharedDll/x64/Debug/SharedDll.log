@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Creating library C:\Users\ahmad\source\repos\KeyboardHook\x64\Debug\SharedDll.lib and object C:\Users\ahmad\source\repos\KeyboardHook\x64\Debug\SharedDll.exp
+  SharedDll.vcxproj -> C:\Users\ahmad\source\repos\KeyboardHook\x64\Debug\SharedDll.dll
